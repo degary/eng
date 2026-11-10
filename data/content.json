@@ -1,0 +1,720 @@
+{
+  "scenarios": [
+    {
+      "id": "morning",
+      "icon": "🌅",
+      "title": "起床 Morning",
+      "tip": "起床是每天第一次英语输入，语气要轻快。拉开窗帘时说 Open the curtain，抱宝宝时说 Good morning! 先用固定的问候语建立仪式感，宝宝听到固定句子会形成条件反射。",
+      "phrases": [
+        { "en": "Good morning! Wake up, sleepyhead!", "cn": "早上好！起床啦，小懒虫！" },
+        { "en": "Did you sleep well?", "cn": "你睡得好吗？" },
+        { "en": "Let's open the curtain. Wow, it's a sunny day!", "cn": "我们拉开窗帘。哇，今天是大晴天！" },
+        { "en": "Let's stretch your arms. Stretch, stretch!", "cn": "伸伸你的小胳膊。伸一伸！" },
+        { "en": "Can you stand up? Let me give you a big hug!", "cn": "能自己站起来吗？让我抱一个大！" },
+        { "en": "Let's change your diaper first.", "cn": "我们先换一下尿布。" },
+        { "en": "Are you hungry? Let's go get some milk.", "cn": "饿了吗？我们去喝奶。" },
+        { "en": "Say good morning to Daddy!", "cn": "跟爸爸说早上好！" }
+      ],
+      "words": [
+        { "w": "wake up", "cn": "起床" },
+        { "w": "morning", "cn": "早晨" },
+        { "w": "hug", "cn": "拥抱" },
+        { "w": "stretch", "cn": "伸展" },
+        { "w": "sunny", "cn": "晴朗的" }
+      ]
+    },
+    {
+      "id": "mealtime",
+      "icon": "🍚",
+      "title": "吃饭 Mealtime",
+      "tip": "吃饭时反复用同一套句式最有效：先用 Try some...，再问 Do you like it?。不催促不强迫，让英语和吃这件事绑定愉快体验。描述食物的颜色和味道，就是最好的词汇输入。",
+      "phrases": [
+        { "en": "It's time for breakfast!", "cn": "到吃早饭的时间啦！" },
+        { "en": "Are you hungry? Let's wash our hands first.", "cn": "饿了吗？我们先洗手。" },
+        { "en": "Sit in your high chair, please.", "cn": "请坐到你的餐椅上。" },
+        { "en": "Try some egg. It's yummy!", "cn": "尝尝鸡蛋，很好吃哦！" },
+        { "en": "The carrot is orange. The broccoli is green.", "cn": "胡萝卜是橙色的，西兰花是绿色的。" },
+        { "en": "Blow on it... it's hot! Hot hot hot!", "cn": "吹一吹……好烫！烫烫烫！" },
+        { "en": "Do you want more? More rice?", "cn": "还要吗？再吃点米饭？" },
+        { "en": "You're such a good eater!", "cn": "你吃得真好！" },
+        { "en": "All done? Let's wipe your mouth.", "cn": "吃完了吗？我们擦擦嘴巴。" }
+      ],
+      "words": [
+        { "w": "hungry", "cn": "饿的" },
+        { "w": "yummy", "cn": "好吃的" },
+        { "w": "more", "cn": "更多" },
+        { "w": "hot", "cn": "烫的" },
+        { "w": "spoon", "cn": "勺子" }
+      ]
+    },
+    {
+      "id": "bath",
+      "icon": "🛁",
+      "title": "洗澡 Bath Time",
+      "tip": "洗澡是宝宝最放松的时刻，也是输入身体部位词汇的黄金时间。玩 Wash your tummy! 的游戏，配合泼水声 Splash，宝宝会咯咯笑着记住这些词。",
+      "phrases": [
+        { "en": "Bath time! Let's take off your clothes.", "cn": "洗澡时间到！我们把衣服脱掉。" },
+        { "en": "Test the water... it's just right.", "cn": "试试水温……刚刚好。" },
+        { "en": "Get in the tub. Careful!", "cn": "坐进浴盆。小心点！" },
+        { "en": "Let's wash your tummy. Scrub scrub scrub!", "cn": "洗洗你的小肚子。搓搓搓！" },
+        { "en": "Wash your arms... wash your legs...", "cn": "洗洗胳膊……洗洗腿……" },
+        { "en": "Where is your belly button? Here it is!", "cn": "你的肚脐眼在哪？在这里！" },
+        { "en": "Splash! The ducky swims in the water.", "cn": "哗啦！小鸭子在水里游泳。" },
+        { "en": "Bath time is over. Time to get out!", "cn": "洗好啦！该出来了！" }
+      ],
+      "words": [
+        { "w": "bath", "cn": "洗澡" },
+        { "w": "water", "cn": "水" },
+        { "w": "tummy", "cn": "肚子" },
+        { "w": "ducky", "cn": "小鸭子" },
+        { "w": "splash", "cn": "泼水声" }
+      ]
+    },
+    {
+      "id": "dressing",
+      "icon": "👕",
+      "title": "穿衣 Dressing",
+      "tip": "穿衣时自然输入衣服名称和颜色，这比指着卡片教有效得多。让宝宝自己伸手说 Arms up!，训练配合度，还能顺带学会身体部位。",
+      "phrases": [
+        { "en": "Let's get dressed! Arms up!", "cn": "我们穿衣服啦！小手举起来！" },
+        { "en": "This is your shirt. It's yellow!", "cn": "这是你的上衣，黄色的！" },
+        { "en": "One arm in... two arms in. There we go!", "cn": "一只手伸进去……两只手都伸进去了。好啦！" },
+        { "en": "Let's put on your pants. Feet first!", "cn": "我们穿裤子。先伸小脚！" },
+        { "en": "Where are your socks? Let's find them.", "cn": "你的袜子呢？我们找找看。" },
+        { "en": "Zip up your jacket. Zip zip zip!", "cn": "拉上外套拉链。拉拉拉！" },
+        { "en": "All dressed! How handsome!", "cn": "穿好啦！真帅！" }
+      ],
+      "words": [
+        { "w": "shirt", "cn": "上衣" },
+        { "w": "pants", "cn": "裤子" },
+        { "w": "socks", "cn": "袜子" },
+        { "w": "shoes", "cn": "鞋子" },
+        { "w": "put on", "cn": "穿上" }
+      ]
+    },
+    {
+      "id": "playtime",
+      "icon": "🧸",
+      "title": "玩耍 Play Time",
+      "tip": "陪玩时用解说员方式说话，描述宝宝正在做的事（You're stacking blocks!）。不用要求回应，磨耳朵重在持续。游戏指令类句子（Come here / Give me five）宝宝最容易先输出。",
+      "phrases": [
+        { "en": "What do you want to play with?", "cn": "你想玩什么呀？" },
+        { "en": "Let's stack the blocks. One, two, three... wow, so tall!", "cn": "我们来搭积木。一、二、三……哇，好高！" },
+        { "en": "Uh-oh, it fell down!", "cn": "哎呀，倒啦！" },
+        { "en": "Roll the ball to Mommy!", "cn": "把球滚给妈妈！" },
+        { "en": "Where is your teddy bear? Is it under the chair?", "cn": "你的泰迪熊在哪？在椅子下面吗？" },
+        { "en": "Come here! Give Mommy five!", "cn": "过来！跟妈妈击个掌！" },
+        { "en": "Let's read this book together. Sit next to me.", "cn": "我们一起看这本书，坐我旁边。" },
+        { "en": "It's time to clean up. Put the toys in the box.", "cn": "该收拾了，把玩具放进箱子里。" }
+      ],
+      "words": [
+        { "w": "block", "cn": "积木" },
+        { "w": "ball", "cn": "球" },
+        { "w": "toy", "cn": "玩具" },
+        { "w": "under", "cn": "在下面" },
+        { "w": "clean up", "cn": "收拾" }
+      ]
+    },
+    {
+      "id": "outing",
+      "icon": "🚗",
+      "title": "外出 Outing",
+      "tip": "出门是最大的天然课堂：红绿灯、小汽车、小狗、树叶，全都是活教材。指着实物说英文，配合夸张语气和拟声词（Beep beep! Woof woof!），宝宝印象最深。",
+      "phrases": [
+        { "en": "Let's go outside! Put on your shoes.", "cn": "我们出去玩啦！穿上鞋子。" },
+        { "en": "Hold Mommy's hand, please.", "cn": "请牵着妈妈的手。" },
+        { "en": "Look! The light is green. Let's cross the street.", "cn": "看！绿灯了，我们过马路。" },
+        { "en": "Wow, a big truck! Beep beep!", "cn": "哇，一辆大卡车！嘀嘀！" },
+        { "en": "Look at the doggy. It says woof woof!", "cn": "看那只小狗，它汪汪叫！" },
+        { "en": "The leaves are falling. Autumn is here.", "cn": "树叶落下来了，秋天到了。" },
+        { "en": "Do you want to go on the slide? One more time?", "cn": "你想玩滑梯吗？再来一次？" },
+        { "en": "Say bye-bye to the park!", "cn": "跟公园说拜拜！" }
+      ],
+      "words": [
+        { "w": "outside", "cn": "外面" },
+        { "w": "car", "cn": "汽车" },
+        { "w": "dog", "cn": "狗" },
+        { "w": "tree", "cn": "树" },
+        { "w": "slide", "cn": "滑梯" }
+      ]
+    },
+    {
+      "id": "bedtime",
+      "icon": "🌙",
+      "title": "睡前 Bedtime",
+      "tip": "睡前是固定英语仪式的最佳时机：洗澡→刷牙→读绘本→唱摇篮曲→关灯说 Good night。每天顺序一致、语言一致，宝宝会有强烈安全感，英语也自然成了生活的一部分。",
+      "phrases": [
+        { "en": "It's bedtime. Time to sleep!", "cn": "睡觉时间到啦！" },
+        { "en": "Let's pick a book. Which one do you want?", "cn": "挑一本绘本吧，你想看哪本？" },
+        { "en": "Snuggle up next to Mommy.", "cn": "挨着妈妈躺好。" },
+        { "en": "Close your eyes. Sweet dreams.", "cn": "闭上眼睛，做个好梦。" },
+        { "en": "Mommy will sing a lullaby for you.", "cn": "妈妈给你唱首摇篮曲。" },
+        { "en": "Say good night to the moon!", "cn": "跟月亮说晚安！" },
+        { "en": "Good night, my little angel.", "cn": "晚安，我的小天使。" }
+      ],
+      "words": [
+        { "w": "bedtime", "cn": "睡觉时间" },
+        { "w": "sleep", "cn": "睡觉" },
+        { "w": "blanket", "cn": "毯子" },
+        { "w": "dream", "cn": "梦" },
+        { "w": "good night", "cn": "晚安" }
+      ]
+    },
+    {
+      "id": "body",
+      "icon": "🖐️",
+      "title": "认识身体 Body Parts",
+      "tip": "两岁前后是身体认知敏感期，Head, Shoulders, Knees and Toes 这首儿歌配合这个场景效果翻倍。玩 Where is your nose? 的问答游戏，宝宝指对了就大声夸奖。",
+      "phrases": [
+        { "en": "Where is your nose? Point to your nose!", "cn": "鼻子在哪里？指指你的鼻子！" },
+        { "en": "These are your eyes. You can see with them!", "cn": "这是你的眼睛，你能用它们看东西！" },
+        { "en": "Touch your head. Clap your hands!", "cn": "摸摸头。拍拍手！" },
+        { "en": "How many fingers? One, two, three, four, five!", "cn": "几根手指？一二三四五！" },
+        { "en": "Stomp your feet! Stamp stamp stamp!", "cn": "跺跺脚！跺跺跺！" },
+        { "en": "Wiggle your toes! Tickly tickly!", "cn": "动动脚趾头！痒痒痒！" },
+        { "en": "You have two ears, just like a bunny!", "cn": "你有两只耳朵，就像小兔子！" }
+      ],
+      "words": [
+        { "w": "head", "cn": "头" },
+        { "w": "nose", "cn": "鼻子" },
+        { "w": "eyes", "cn": "眼睛" },
+        { "w": "hands", "cn": "手" },
+        { "w": "feet", "cn": "脚" }
+      ]
+    },
+    {
+      "id": "zoo",
+      "icon": "🦁",
+      "title": "动物园 Zoo",
+      "tip": "逛动物园是最兴奋的英语课堂！看到动物先说名字再模仿叫声，比如看到狮子说 A lion! Roar!。宝宝对动物天生有兴趣，配合动作和声音，词汇记忆效果极佳。",
+      "phrases": [
+        { "en": "Let's go to the zoo today!", "cn": "我们今天去动物园吧！" },
+        { "en": "Look! A lion! The lion says ROAR!", "cn": "看！一只狮子！狮子说‘吼’！" },
+        { "en": "The elephant has a long trunk.", "cn": "大象有一条长长的鼻子。" },
+        { "en": "The giraffe has a very long neck.", "cn": "长颈鹿的脖子好长呀。" },
+        { "en": "Look at the monkey! It's climbing the tree.", "cn": "看那只猴子！它在爬树。" },
+        { "en": "The panda is eating bamboo. Yum yum!", "cn": "熊猫在吃竹子呢，真好吃！" },
+        { "en": "The zebra has black and white stripes.", "cn": "斑马身上有黑白条纹。" },
+        { "en": "Can you hop like a kangaroo?", "cn": "你能像袋鼠一样跳一跳吗？" },
+        { "en": "The tiger is sleeping. Shh, be quiet.", "cn": "老虎在睡觉，嘘，小声点。" },
+        { "en": "Wow, look at that big bear!", "cn": "哇，看那只大熊！" }
+      ],
+      "words": [
+        { "w": "lion", "cn": "狮子" },
+        { "w": "elephant", "cn": "大象" },
+        { "w": "giraffe", "cn": "长颈鹿" },
+        { "w": "monkey", "cn": "猴子" },
+        { "w": "panda", "cn": "熊猫" },
+        { "w": "zebra", "cn": "斑马" },
+        { "w": "tiger", "cn": "老虎" },
+        { "w": "kangaroo", "cn": "袋鼠" }
+      ]
+    },
+    {
+      "id": "street-animals",
+      "icon": "🐦",
+      "title": "路上的动物 Animals Outside",
+      "tip": "散步路上遇到的动物是日常最高频的英语输入机会：小狗、小猫、小鸟、蝴蝶都是活教材。看到就随口说出来，不用刻意安排，自然重复几次宝宝就记住了。",
+      "phrases": [
+        { "en": "Look, a cat! The cat says meow.", "cn": "看，一只猫！猫说‘喵’。" },
+        { "en": "A dog is barking. Woof woof!", "cn": "一只狗在叫。汪汪！" },
+        { "en": "There's a bird in the tree. Tweet tweet!", "cn": "树上有只小鸟。啾啾！" },
+        { "en": "Look at the butterfly! It's so pretty.", "cn": "看那只蝴蝶！真漂亮。" },
+        { "en": "A little ant is walking on the ground.", "cn": "一只小蚂蚁在地上走。" },
+        { "en": "The squirrel is running up the tree.", "cn": "松鼠在往树上跑。" },
+        { "en": "Look, two pigeons on the bench!", "cn": "看，长椅上有两只鸽子！" },
+        { "en": "A snail is so slow. Slow slow slow!", "cn": "蜗牛好慢呀，慢慢慢！" }
+      ],
+      "words": [
+        { "w": "cat", "cn": "猫" },
+        { "w": "dog", "cn": "狗" },
+        { "w": "bird", "cn": "鸟" },
+        { "w": "butterfly", "cn": "蝴蝶" },
+        { "w": "squirrel", "cn": "松鼠" }
+      ]
+    },
+    {
+      "id": "praise",
+      "icon": "🌟",
+      "title": "夸奖与鼓励 Praise",
+      "tip": "夸奖要具体、要及时。与其只说 Good，不如说 You did it yourself!。宝宝的成就感会让他更愿意开口。避免说 No no no，多用正向指令（Walk slowly 而不是 Don't run）。",
+      "phrases": [
+        { "en": "You did it! All by yourself!", "cn": "你做到啦！全靠自己！" },
+        { "en": "What a good job! Mommy is so proud of you.", "cn": "做得真好！妈妈为你骄傲。" },
+        { "en": "Yay! Give me five!", "cn": "耶！击个掌！" },
+        { "en": "You tried so hard. Well done!", "cn": "你特别努力，真棒！" },
+        { "en": "Thank you for helping, my little helper!", "cn": "谢谢帮忙，我的小帮手！" },
+        { "en": "Don't worry. Mommy is right here.", "cn": "别担心，妈妈就在这里。" },
+        { "en": "It's okay. Let's try again together.", "cn": "没关系，我们再试一次。" }
+      ],
+      "words": [
+        { "w": "great", "cn": "很棒" },
+        { "w": "proud", "cn": "骄傲" },
+        { "w": "try", "cn": "尝试" },
+        { "w": "again", "cn": "再一次" },
+        { "w": "share", "cn": "分享" }
+      ]
+    },
+    {
+      "id": "safety",
+      "icon": "🛡️",
+      "title": "规则与安全 Rules",
+      "tip": "立规矩时保持语气平静、句子简短。固定说 Hands are not for hitting，比长篇大论有效。危险场景用夸张表情配短句（Hot! Danger!），宝宝会快速把词和危险建立联系。",
+      "phrases": [
+        { "en": "No, no. We don't touch the plug. It's dangerous!", "cn": "不可以碰插座，很危险！" },
+        { "en": "Gentle! Pet the kitty gently, like this.", "cn": "要轻轻的！像这样轻轻摸小猫。" },
+        { "en": "Hot! Don't touch. It's very hot!", "cn": "烫！别碰，非常烫！" },
+        { "en": "We walk inside the house. Run outside, okay?", "cn": "在屋里要走路，在外面才能跑，好吗？" },
+        { "en": "Use your words, not your hands.", "cn": "用嘴巴说出来，不要动手。" },
+        { "en": "Wait a moment, please. Mommy is talking.", "cn": "请等一下，妈妈在说话。" }
+      ],
+      "words": [
+        { "w": "dangerous", "cn": "危险的" },
+        { "w": "gentle", "cn": "温柔的" },
+        { "w": "wait", "cn": "等待" },
+        { "w": "stop", "cn": "停下" }
+      ]
+    },
+    {
+      "id": "teeth",
+      "icon": "🪥",
+      "title": "刷牙 & 洗脸",
+      "tip": "刷牙是培养习惯的关键期场景。可以边刷边唱 Brush brush brush，让刷牙变成游戏。每次都用同样的句式，宝宝很快能听懂并配合张嘴说 Aaaah。",
+      "phrases": [
+        { "en": "Let's brush your teeth! Where is your toothbrush?", "cn": "我们刷牙啦！你的牙刷在哪？" },
+        { "en": "Open wide! Say Aaaah...", "cn": "张大嘴！说‘啊——’" },
+        { "en": "Brush brush brush. Up and down.", "cn": "刷刷刷。上上下下。" },
+        { "en": "Rinse with water. Spit... okay!", "cn": "用水漱口。吐掉……好！" },
+        { "en": "Let's wash your face. Splish splash!", "cn": "我们洗洗脸。哗啦哗啦！" },
+        { "en": "Shiny clean teeth! You did it!", "cn": "牙齿闪闪亮！你自己刷好了！" }
+      ],
+      "words": [
+        { "w": "toothbrush", "cn": "牙刷" },
+        { "w": "teeth", "cn": "牙齿" },
+        { "w": "brush", "cn": "刷" },
+        { "w": "wash", "cn": "洗" }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "cat": "Animals 动物",
+      "icon": "🐾",
+      "words": [
+        ["cat", "猫"], ["dog", "狗"], ["duck", "鸭子"], ["bird", "鸟"],
+        ["fish", "鱼"], ["bear", "熊"], ["rabbit", "兔子"], ["monkey", "猴子"],
+        ["elephant", "大象"], ["pig", "猪"], ["cow", "奶牛"], ["horse", "马"]
+      ]
+    },
+    {
+      "cat": "Zoo Animals 动物园",
+      "icon": "🦁",
+      "words": [
+        ["lion", "狮子"], ["tiger", "老虎"], ["giraffe", "长颈鹿"], ["zebra", "斑马"],
+        ["panda", "熊猫"], ["kangaroo", "袋鼠"], ["hippo", "河马"], ["crocodile", "鳄鱼"],
+        ["penguin", "企鹅"], ["camel", "骆驼"], ["wolf", "狼"], ["fox", "狐狸"]
+      ]
+    },
+    {
+      "cat": "Food 食物",
+      "icon": "🍎",
+      "words": [
+        ["apple", "苹果"], ["banana", "香蕉"], ["egg", "鸡蛋"], ["milk", "牛奶"],
+        ["rice", "米饭"], ["noodle", "面条"], ["bread", "面包"], ["water", "水"],
+        ["cake", "蛋糕"], ["cookie", "饼干"], ["carrot", "胡萝卜"], ["yogurt", "酸奶"]
+      ]
+    },
+    {
+      "cat": "Body 身体",
+      "icon": "🖐️",
+      "words": [
+        ["head", "头"], ["hair", "头发"], ["eye", "眼睛"], ["nose", "鼻子"],
+        ["mouth", "嘴巴"], ["ear", "耳朵"], ["hand", "手"], ["foot", "脚"],
+        ["tummy", "肚子"], ["finger", "手指"], ["tooth", "牙齿"], ["knee", "膝盖"]
+      ]
+    },
+    {
+      "cat": "Home 家居",
+      "icon": "🛋️",
+      "words": [
+        ["door", "门"], ["window", "窗户"], ["chair", "椅子"], ["table", "桌子"],
+        ["bed", "床"], ["lamp", "灯"], ["cup", "杯子"], ["box", "盒子"],
+        ["book", "书"], ["ball", "球"], ["shoe", "鞋"], ["key", "钥匙"]
+      ]
+    },
+    {
+      "cat": "Actions 动作",
+      "icon": "🏃",
+      "words": [
+        ["eat", "吃"], ["drink", "喝"], ["sleep", "睡觉"], ["run", "跑"],
+        ["jump", "跳"], ["walk", "走"], ["clap", "拍手"], ["hug", "抱"],
+        ["kiss", "亲"], ["sit", "坐"], ["stand", "站"], ["wash", "洗"]
+      ]
+    },
+    {
+      "cat": "Colors 颜色",
+      "icon": "🎨",
+      "words": [
+        ["red", "红色"], ["blue", "蓝色"], ["yellow", "黄色"], ["green", "绿色"],
+        ["orange", "橙色"], ["purple", "紫色"], ["pink", "粉色"], ["black", "黑色"],
+        ["white", "白色"], ["brown", "棕色"]
+      ]
+    },
+    {
+      "cat": "Vehicles 交通工具",
+      "icon": "🚗",
+      "words": [
+        ["car", "汽车"], ["bus", "公交车"], ["train", "火车"], ["bike", "自行车"],
+        ["truck", "卡车"], ["plane", "飞机"], ["boat", "船"], ["taxi", "出租车"],
+        ["motorcycle", "摩托车"], ["ambulance", "救护车"]
+      ]
+    },
+    {
+      "cat": "Nature 自然",
+      "icon": "🌳",
+      "words": [
+        ["sun", "太阳"], ["moon", "月亮"], ["star", "星星"], ["tree", "树"],
+        ["flower", "花"], ["grass", "草"], ["rain", "雨"], ["cloud", "云"],
+        ["wind", "风"], ["leaf", "叶子"]
+      ]
+    }
+  ],
+  "zoo": {
+    "title": "🦁 动物园专题 Zoo Animals",
+    "intro": "带宝宝逛动物园或看动物绘本时，先说动物名字，再模仿它的叫声和动作。宝宝对动物天然感兴趣，这是最容易建立的词汇连接。",
+    "animals": [
+      { "icon": "🦁", "en": "lion", "cn": "狮子", "sound": "Roar!", "sentence": "The lion says ROAR!" },
+      { "icon": "🐯", "en": "tiger", "cn": "老虎", "sound": "Grr!", "sentence": "The tiger is big and strong." },
+      { "icon": "🐘", "en": "elephant", "cn": "大象", "sound": "", "sentence": "The elephant has a long trunk." },
+      { "icon": "🦒", "en": "giraffe", "cn": "长颈鹿", "sound": "", "sentence": "The giraffe has a long neck." },
+      { "icon": "🐵", "en": "monkey", "cn": "猴子", "sound": "Ooh ooh!", "sentence": "The monkey likes to climb trees." },
+      { "icon": "🐼", "en": "panda", "cn": "熊猫", "sound": "", "sentence": "The panda eats bamboo." },
+      { "icon": "🦓", "en": "zebra", "cn": "斑马", "sound": "", "sentence": "The zebra has black and white stripes." },
+      { "icon": "🦛", "en": "hippo", "cn": "河马", "sound": "", "sentence": "The hippo loves to swim in the water." },
+      { "icon": "🐊", "en": "crocodile", "cn": "鳄鱼", "sound": "Snap!", "sentence": "The crocodile has sharp teeth." },
+      { "icon": "🐧", "en": "penguin", "cn": "企鹅", "sound": "", "sentence": "The penguin waddles on the ice." },
+      { "icon": "🐫", "en": "camel", "cn": "骆驼", "sound": "", "sentence": "The camel walks in the desert." },
+      { "icon": "🦘", "en": "kangaroo", "cn": "袋鼠", "sound": "Hop hop!", "sentence": "The kangaroo can jump very high." },
+      { "icon": "🐻", "en": "bear", "cn": "熊", "sound": "Grr!", "sentence": "The bear is sleeping in winter." },
+      { "icon": "🐺", "en": "wolf", "cn": "狼", "sound": "Howl!", "sentence": "The wolf says howl." },
+      { "icon": "🦊", "en": "fox", "cn": "狐狸", "sound": "", "sentence": "The fox has a bushy tail." },
+      { "icon": "🦉", "en": "owl", "cn": "猫头鹰", "sound": "Hoo hoo!", "sentence": "The owl says hoo hoo at night." }
+    ],
+    "outdoor": {
+      "title": "🐦 路上常见的动物",
+      "intro": "散步、去公园时遇到的小动物，是每天都能用到的自然英语素材。",
+      "animals": [
+        { "icon": "🐱", "en": "cat", "cn": "猫", "sound": "Meow!", "sentence": "The cat says meow." },
+        { "icon": "🐶", "en": "dog", "cn": "狗", "sound": "Woof!", "sentence": "The dog says woof woof." },
+        { "icon": "🐦", "en": "bird", "cn": "小鸟", "sound": "Tweet!", "sentence": "The bird says tweet tweet." },
+        { "icon": "🦋", "en": "butterfly", "cn": "蝴蝶", "sound": "", "sentence": "Look at the pretty butterfly." },
+        { "icon": "🐿️", "en": "squirrel", "cn": "松鼠", "sound": "", "sentence": "The squirrel runs up the tree." },
+        { "icon": "🐌", "en": "snail", "cn": "蜗牛", "sound": "", "sentence": "The snail is very slow." },
+        { "icon": "🐜", "en": "ant", "cn": "蚂蚁", "sound": "", "sentence": "The little ant is working hard." },
+        { "icon": "🐝", "en": "bee", "cn": "蜜蜂", "sound": "Buzz!", "sentence": "The bee says buzz buzz." },
+        { "icon": "🐇", "en": "rabbit", "cn": "兔子", "sound": "", "sentence": "The rabbit hops in the garden." },
+        { "icon": "🐥", "en": "chick", "cn": "小鸡", "sound": "Peep!", "sentence": "The little chick says peep peep." }
+      ]
+    }
+  },
+  "songs": [
+    {
+      "id": "twinkle",
+      "icon": "⭐",
+      "t": "Twinkle Twinkle Little Star",
+      "d": "最经典的摇篮曲，睡前必唱",
+      "slow": 1,
+      "lyrics": [
+        ["Twinkle, twinkle, little star", "一闪一闪小星星"],
+        ["How I wonder what you are", "我想知道你是什么"],
+        ["Up above the world so high", "高高地挂在世界上空"],
+        ["Like a diamond in the sky", "像天上的钻石一样"],
+        ["Twinkle, twinkle, little star", "一闪一闪小星星"],
+        ["How I wonder what you are", "我想知道你是什么"]
+      ]
+    },
+    {
+      "id": "wheels-bus",
+      "icon": "🚌",
+      "t": "The Wheels on the Bus",
+      "d": "动作模仿神曲，配合转圈、按喇叭动作",
+      "slow": 1,
+      "lyrics": [
+        ["The wheels on the bus go round and round", "公交车轮转呀转"],
+        ["Round and round, round and round", "转呀转，转呀转"],
+        ["The wheels on the bus go round and round", "公交车轮转呀转"],
+        ["All through the town", "穿过整个小镇"],
+        ["The wipers on the bus go swish swish swish", "公交车雨刷嗖嗖嗖"],
+        ["The horn on the bus goes beep beep beep", "公交车喇叭嘀嘀嘀"],
+        ["The mommies on the bus go shush shush shush", "公交车妈妈嘘嘘嘘"]
+      ]
+    },
+    {
+      "id": "old-macdonald",
+      "icon": "🐮",
+      "t": "Old MacDonald Had a Farm",
+      "d": "学动物叫声，认知动物的好帮手",
+      "slow": 1,
+      "lyrics": [
+        ["Old MacDonald had a farm, E-I-E-I-O", "老麦克唐纳有个农场，咿呀咿呀哟"],
+        ["And on his farm he had a cow, E-I-E-I-O", "他的农场里有头奶牛"],
+        ["With a moo moo here and a moo moo there", "这里哞哞，那里哞哞"],
+        ["Here a moo, there a moo, everywhere a moo moo", "到处都是哞哞叫"],
+        ["Old MacDonald had a farm, E-I-E-I-O", "老麦克唐纳有个农场"]
+      ]
+    },
+    {
+      "id": "happy-know-it",
+      "icon": "😊",
+      "t": "If You're Happy and You Know It",
+      "d": "拍手跺脚，宝宝最爱跟着做动作",
+      "slow": 1,
+      "lyrics": [
+        ["If you're happy and you know it, clap your hands!", "如果感到幸福你就拍拍手"],
+        ["If you're happy and you know it, clap your hands!", "如果感到幸福你就拍拍手"],
+        ["If you're happy and you know it, and you really want to show it", "如果感到幸福，并且想表现出来"],
+        ["If you're happy and you know it, clap your hands!", "如果感到幸福你就拍拍手"]
+      ]
+    },
+    {
+      "id": "head-shoulders",
+      "icon": "🧑",
+      "t": "Head, Shoulders, Knees and Toes",
+      "d": "身体部位认知第一神曲",
+      "slow": 1,
+      "lyrics": [
+        ["Head, shoulders, knees and toes, knees and toes", "头、肩膀、膝盖、脚趾"],
+        ["Head, shoulders, knees and toes, knees and toes", "头、肩膀、膝盖、脚趾"],
+        ["Eyes and ears and mouth and nose", "眼睛、耳朵、嘴巴和鼻子"],
+        ["Head, shoulders, knees and toes, knees and toes", "头、肩膀、膝盖、脚趾"]
+      ]
+    },
+    {
+      "id": "five-ducks",
+      "icon": "🦆",
+      "t": "Five Little Ducks",
+      "d": "数数启蒙+手指游戏",
+      "slow": 1,
+      "lyrics": [
+        ["Five little ducks went out one day", "五只小鸭子有一天出去了"],
+        ["Over the hills and far away", "翻过小山走远了"],
+        ["Mother duck said: Quack, quack, quack, quack", "鸭妈妈说：嘎嘎嘎嘎"],
+        ["But only four little ducks came back", "可是只有四只小鸭子回来了"],
+        ["Sad mother duck went out one day", "伤心的鸭妈妈出去了"],
+        ["Mother duck said: Quack, quack, quack", "鸭妈妈说：嘎嘎嘎"],
+        ["And all of the five little ducks came back!", "五只小鸭子全都回来了！"]
+      ]
+    },
+    {
+      "id": "row-boat",
+      "icon": "🚣",
+      "t": "Row Row Row Your Boat",
+      "d": "可抱着宝宝前后摇，亲子互动满分",
+      "slow": 1,
+      "lyrics": [
+        ["Row, row, row your boat", "划、划、划小船"],
+        ["Gently down the stream", "缓缓顺流而下"],
+        ["Merrily, merrily, merrily, merrily", "开心地、开心地"],
+        ["Life is but a dream", "人生不过是一场梦"]
+      ]
+    },
+    {
+      "id": "itsy-spider",
+      "icon": "🕷️",
+      "t": "Itsy Bitsy Spider",
+      "d": "手指爬呀爬，精细动作+儿歌二合一",
+      "slow": 1,
+      "lyrics": [
+        ["The itsy bitsy spider climbed up the water spout", "小蜘蛛爬上了水管"],
+        ["Down came the rain and washed the spider out", "雨水落下来把蜘蛛冲走了"],
+        ["Out came the sun and dried up all the rain", "太阳出来晒干了雨水"],
+        ["And the itsy bitsy spider climbed up the spout again", "小蜘蛛又爬上了水管"]
+      ]
+    },
+    {
+      "id": "baby-shark",
+      "icon": "🦈",
+      "t": "Baby Shark",
+      "d": "节奏感强，全家都会上头",
+      "slow": 0,
+      "lyrics": [
+        ["Baby shark, doo doo doo doo doo doo", "鲨鱼宝宝 嘟嘟嘟嘟嘟嘟"],
+        ["Baby shark!", "鲨鱼宝宝！"],
+        ["Mommy shark, doo doo doo doo doo doo", "鲨鱼妈妈 嘟嘟嘟嘟嘟嘟"],
+        ["Daddy shark, doo doo doo doo doo doo", "鲨鱼爸爸 嘟嘟嘟嘟嘟嘟"],
+        ["Let's go hunt, doo doo doo doo doo doo", "我们去打猎 嘟嘟嘟嘟嘟嘟"],
+        ["Safe at last, doo doo doo doo doo doo", "终于安全啦 嘟嘟嘟嘟嘟嘟"]
+      ]
+    },
+    {
+      "id": "one-finger",
+      "icon": "☝️",
+      "t": "One Little Finger",
+      "d": "认识身体+手指点一点",
+      "slow": 1,
+      "lyrics": [
+        ["One little finger, one little finger, one little finger", "一根小手指"],
+        ["Tap tap tap!", "点一点！"],
+        ["Point your finger up! Point your finger down!", "手指向上指！手指向下指！"],
+        ["Put it on your head. Head!", "放到头上。头！"]
+      ]
+    },
+    {
+      "id": "bath-song",
+      "icon": "🛁",
+      "t": "The Bath Song",
+      "d": "Super Simple Songs，洗澡时唱正合适",
+      "slow": 1,
+      "lyrics": [
+        ["Can you wash your hair? I can wash my hair!", "你会洗头发吗？我会洗头发！"],
+        ["Can you wash your feet? I can wash my feet!", "你会洗脚吗？我会洗脚！"],
+        ["Can you wash your face? I can wash my face!", "你会洗脸吗？我会洗脸！"],
+        ["Can you wash your knees? I can wash my knees!", "你会洗膝盖吗？我会洗膝盖！"]
+      ]
+    },
+    {
+      "id": "rain-away",
+      "icon": "☔",
+      "t": "Rain Rain Go Away",
+      "d": "下雨天应景必唱",
+      "slow": 1,
+      "lyrics": [
+        ["Rain, rain, go away", "雨呀雨呀快走吧"],
+        ["Come again another day", "改天再来吧"],
+        ["Daddy wants to play", "爸爸想出去玩"],
+        ["Baby wants to play too", "宝宝也想玩"]
+      ]
+    },
+    {
+      "id": "brother-john",
+      "icon": "😴",
+      "t": "Are You Sleeping (Brother John)",
+      "d": "两声部简单旋律，起床/睡前都能用",
+      "slow": 1,
+      "lyrics": [
+        ["Are you sleeping, are you sleeping?", "你还在睡吗？你还在睡吗？"],
+        ["Brother John, Brother John?", "约翰哥哥？"],
+        ["Morning bells are ringing, morning bells are ringing", "晨钟敲响了"],
+        ["Ding, ding, dong. Ding, ding, dong.", "叮、叮、当。"]
+      ]
+    },
+    {
+      "id": "london-bridge",
+      "icon": "🌉",
+      "t": "London Bridge Is Falling Down",
+      "d": "可以两人搭桥让宝宝钻过去玩",
+      "slow": 1,
+      "lyrics": [
+        ["London Bridge is falling down, falling down, falling down", "伦敦桥要塌下来，塌下来，塌下来"],
+        ["London Bridge is falling down, my fair lady", "伦敦桥要塌下来，我美丽的淑女"]
+      ]
+    },
+    {
+      "id": "mary-lamb",
+      "icon": "🐑",
+      "t": "Mary Had a Little Lamb",
+      "d": "旋律简单，跟着哼哼就会了",
+      "slow": 1,
+      "lyrics": [
+        ["Mary had a little lamb, little lamb, little lamb", "玛丽有只小羊羔，小羊羔，小羊羔"],
+        ["Mary had a little lamb, its fleece was white as snow", "玛丽有只小羊羔，它的毛像雪一样白"]
+      ]
+    },
+    {
+      "id": "bingo",
+      "icon": "🎵",
+      "t": "BINGO",
+      "d": "拼字母+拍节奏，2岁+可以开始玩",
+      "slow": 1,
+      "lyrics": [
+        ["There was a farmer had a dog, and Bingo was his name-o", "农夫养了只狗，名叫宾果"],
+        ["B-I-N-G-O, B-I-N-G-O, B-I-N-G-O", "B-I-N-G-O"],
+        ["And Bingo was his name-o", "宾果就是它的名字"]
+      ]
+    },
+    {
+      "id": "hickory-dock",
+      "icon": "🐭",
+      "t": "Hickory Dickory Dock",
+      "d": "认识时间+小老鼠，节奏朗朗上口",
+      "slow": 1,
+      "lyrics": [
+        ["Hickory dickory dock", "滴滴答答钟声响"],
+        ["The mouse ran up the clock", "小老鼠跑上了钟"],
+        ["The clock struck one", "钟敲了一下"],
+        ["The mouse ran down", "小老鼠跑下来"],
+        ["Hickory dickory dock", "滴滴答答钟声响"]
+      ]
+    },
+    {
+      "id": "little-teapot",
+      "icon": "🫖",
+      "t": "I'm a Little Teapot",
+      "d": "配合身体动作，模仿茶壤倒水特别可爱",
+      "slow": 1,
+      "lyrics": [
+        ["I'm a little teapot, short and stout", "我是一个小茶壶，又矮又胖"],
+        ["Here is my handle, here is my spout", "这是我的把手，这是我的壶嘴"],
+        ["When I get all steamed up, hear me shout", "当我烫得冒泡，听我大叫"],
+        ["Tip me over and pour me out!", "把我倒过来，把水倒出来！"]
+      ]
+    },
+    {
+      "id": "wheels-stars",
+      "icon": "🧦",
+      "t": "This Is the Way",
+      "d": "日常洗漱穿衣小调，可随意换词替换场景",
+      "slow": 1,
+      "lyrics": [
+        ["This is the way we brush our teeth", "这样牙"],
+        ["Brush our teeth, brush our teeth", "刷牙，刷牙"],
+        ["This is the way we brush our teeth", "这样刷牙"],
+        ["So early in the morning", "在清晨的时候"]
+      ]
+    }
+  ],
+  "assess": [
+    {
+      "range": "12–18 个月",
+      "min": 12,
+      "max": 18,
+      "items": [
+        "听到自己的英文名或 favorite toy 的名字会有反应（转头/看向物品）",
+        "能听懂简单指令：come here / give me / no no",
+        "听到 No 或危险的短句会停下动作",
+        "能听懂身体部位（如 Where is your nose? 会指）",
+        "喜欢听英文儿歌，会跟着节奏拍手或摇摆",
+        "偶尔模仿大人发音，比如 mommy、bye-bye",
+        "对人说 bye-bye 时会挥手"
+      ]
+    },
+    {
+      "range": "19–24 个月",
+      "min": 19,
+      "max": 24,
+      "items": [
+        "能听懂两步指令：Pick up the ball and give it to Mommy",
+        "能听懂日常场景句：Time to eat / Let's take a bath",
+        "会说 5 个以上英文词（如 bye-bye、ball、milk、no、more）",
+        "会指认绘本或实物中的常见物品（apple、dog、car 等）",
+        "听到熟悉的儿歌会哼最后一个字或跟唱关键词（如 BINGO）",
+        "能回答简单问题（Where is...? 会指；Yes/No 会点头摇头）",
+        "对英语有主动兴趣：主动要求放英文儿歌或拿英文绘本"
+      ]
+    },
+    {
+      "range": "25–36 个月",
+      "min": 25,
+      "max": 36,
+      "items": [
+        "能听懂三步以上指令",
+        "会用英文短句表达需求：I want milk / More, please",
+        "会唱 1–2 首完整英文儿歌",
+        "能进行简单一问一答：What's this? — It's a dog",
+        "认识常见颜色、动物、食物的英文说法（各 3 个以上）",
+        "能复述绘本里的关键词或句子",
+        "会主动用英语打招呼：Hello / Good morning / Bye-bye"
+      ]
+    }
+  ]
+}

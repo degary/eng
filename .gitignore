@@ -1,0 +1,14 @@
+# 音频文件（体积大，且需在本地用 edge-tts 生成后直接上传服务器，不走 git）
+audio/*
+!audio/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
