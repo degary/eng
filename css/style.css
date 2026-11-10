@@ -492,7 +492,7 @@ header .age-line {
 /* ================= 词卡 ================= */
 .flash {
   position: relative;
-  height: 190px;
+  height: 230px;
   border-radius: 16px;
   background: linear-gradient(135deg, var(--blue-soft), var(--accent-soft));
   display: flex;
@@ -503,16 +503,24 @@ header .age-line {
   overflow: hidden;
 }
 
+.flash .fimg {
+  width: 88px;
+  height: 88px;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 8px rgba(60, 90, 80, 0.15));
+}
+
 .flash .fw {
-  font-size: 34px;
+  font-size: 30px;
   font-weight: 700;
   color: #33608c;
+  margin-top: 10px;
 }
 
 .flash .fc {
   font-size: 16px;
   color: #6a7d6e;
-  margin-top: 8px;
+  margin-top: 6px;
 }
 
 .flash .hint {

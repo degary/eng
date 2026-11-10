@@ -290,16 +290,18 @@ let flashCat = 0, flashIdx = 0, flashShowCn = false;
 function vFlash() {
   const vocab = CONTENT.vocab;
   const c = vocab[flashCat];
+  const word = c.words[flashIdx][0];
   return `<div class="card">
     <h2>🃏 词汇闪卡 <span class="tag">点卡片翻面</span></h2>
-    <p class="muted">先听音看图（用家里实物指认），再看中文。每天几个新词加复习昨天的，量不必多。</p>
+    <p class="muted">先听音看图，再看中文。每天几个新词加复习昨天的，量不必多。</p>
     <div class="cat-chips" style="margin-top:12px">
       ${vocab.map((v, i) => `<button class="${i === flashCat ? "on" : ""}" onclick="flashCat=${i};flashIdx=0;flashShowCn=false;renderMain()">${v.icon} ${v.cat.split(" ")[0]}</button>`).join("")}
     </div>
     <div class="flash" onclick="flashShowCn=!flashShowCn;renderMain()">
+      <img class="fimg" src="images/vocab/${encodeURIComponent(word)}.svg" alt="${word}" onerror="this.style.display='none'">
       ${flashShowCn
-        ? `<div class="fc" style="font-size:26px;color:#2f8570;font-weight:700">${c.words[flashIdx][1]}</div>`
-        : `<div class="fw">${c.words[flashIdx][0]}</div>`}
+        ? `<div class="fc">${c.words[flashIdx][1]}</div>`
+        : `<div class="fw">${word}</div>`}
       <div class="hint">点按翻面 · 点下方喇叭听发音</div>
     </div>
     <div style="text-align:center;margin-top:10px"><button class="btn btn-accent" onclick="speak('${escapeJs(c.words[flashIdx][0])}',0.8)">🔊 听发音</button></div>
